@@ -13,5 +13,4 @@ public class AddTester {
         System.out.println("Actual Width is: " + box.getWidth());
         System.out.println("Actual Height is: " + box.getHeight());
         }
-    
 }
